@@ -1,4 +1,4 @@
-#C++ Second Lab
+## C++ Second Lab
 
 Вариант 1
 
